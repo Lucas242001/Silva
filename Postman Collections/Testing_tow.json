@@ -5,18 +5,5 @@
 		"description": "teste",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
-	"item": [
-		{
-			"name": "New Request",
-			"id": "8c373ffd-53be-4d67-9dcc-347df849f15f",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		}
-	]
+	"item": []
 }
